@@ -1,7 +1,13 @@
 export const navigation = [
   {
     title: 'Introduction',
-    links: [{ title: 'Introduction', href: '/' }]
+    links: [
+      { title: 'Introduction', href: '/' },
+      {
+        title: 'Contributing to these docs',
+        href: '/docs/contributing/to-docs'
+      }
+    ]
   },
   {
     title: 'The Basics',
@@ -102,14 +108,5 @@ export const navigation = [
   {
     title: 'Architecture',
     links: [{ title: 'Architecture', href: '/docs/architecture' }]
-  },
-  {
-    title: 'Contributing',
-    links: [
-      {
-        title: 'Contributing to these docs',
-        href: '/docs/contributing/to-docs'
-      }
-    ]
   }
 ];
