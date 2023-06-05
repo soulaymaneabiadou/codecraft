@@ -21,11 +21,10 @@ export const Header = () => {
 
   return (
     <header
-      className={`sticky top-0 z-50 mx-auto flex max-w-8xl flex-wrap items-center justify-between bg-white px-4 py-5 sm:px-6 lg:px-8 shadow-md shadow-gray-900/5 transition duration-500 dark:shadow-none  ${
-        isScrolled
+      className={`sticky top-0 z-50 mx-auto flex max-w-8xl flex-wrap items-center justify-between bg-white px-4 py-5 sm:px-6 lg:px-8 shadow-md shadow-gray-900/5 transition duration-500 dark:shadow-none  ${isScrolled
           ? 'dark:bg-gray-900/95 dark:backdrop-blur dark:[@supports(backdrop-filter:blur(0))]:bg-gray-900/75'
           : 'dark:bg-transparent'
-      } `}>
+        } `}>
       <div className='mr-6 lg:hidden'>
         <MobileNavigation />
       </div>
@@ -40,7 +39,7 @@ export const Header = () => {
       </div>
 
       <div className='-my-5 mr-6 sm:mr-8 md:mr-0'>
-        <Search />
+        {/* <Search /> */}
       </div>
 
       <HeaderLinks />
