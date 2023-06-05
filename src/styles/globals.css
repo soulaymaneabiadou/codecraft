@@ -1,0 +1,33 @@
+@import 'tailwindcss/base';
+@import './fonts.css';
+
+@import './prism.css';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 0.25rem;
+  @apply bg-gray-800;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: none;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-600 transition-all ease-in-out duration-200;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-800;
+}
+
+::-webkit-scrollbar:horizontal,
+::-webkit-scrollbar-track:horizontal,
+::-webkit-scrollbar-thumb:horizontal {
+  @apply rounded-xl;
+}
