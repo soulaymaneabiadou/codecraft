@@ -38,15 +38,4 @@ ReadMe
 
 # Other docs to write
 
-business
-qa
-incident report, when something goes down in prod, docs describing what went wrong, time, and order...
-starting a project
-architecture, db diagram, services and relations...
-onboarding: first day, first week, first commit, access, code cloning, machine setup, ...
-starting a project, cloning it, installing deps, setup enviroment, creating env vars, ...
-docs to write/create service, controller, route, model, ..., with examples
-
-# Project idea
-
-project to give you a consise idea of terms of service of a website you type in, example: https://www.youtube.com/watch?v=wr_k-QvH1o4
+business, qa, incident report, production outage, post-mortem, creating a project(architecture, db diagram, services, and relations...), onboarding a developer(first day, first week, first commit, access to code, cloning, machine setup, starting a project, cloning it, installing deps, setup environment, creating env vars, ...), docs to write/create service, controller, route, model, ..., with examples
