@@ -31,3 +31,18 @@ CodeCraft is an open-source project, and we welcome contributions from the devel
 - **Suggest Enhancements**: Feel free to suggest enhancements or modifications to the existing guidelines. We value your feedback and ideas for making CodeCraft even more effective and user-friendly.
 
 Your contributions are what make CodeCraft a valuable resource for developers striving to improve their coding practices. Together, we can create a robust and inclusive code style guide that benefits the entire developer community.
+
+## Tech Stack
+
+Tech Stack:
+
+CodeCraft employs a modern and efficient tech stack, carefully selected to optimize developer productivity and enhance the user experience:
+
+- **Next.js**: provides a solid foundation for creating dynamic, performant, and SEO-friendly web applications, making it a perfect fit for CodeCraft.
+
+- **Tailwind CSS**: CodeCraft utilizes Tailwind CSS to craft a visually appealing and consistent user interface, ensuring a seamless and delightful user experience.
+
+- **Markdoc**: is an enhanced markdown language that offers additional features and capabilities beyond standard markdown, making it more versatile and powerful. Markdoc is the backbone of our content creation, allowing for the creation of clear and structured documentation for the CodeCraft code style guide.
+
+- **Tailwind UI Based Theme**: ensures a cohesive and professional appearance while reducing development time by utilizing pre-styled UI components.
+This tech stack combination empowers CodeCraft to deliver an intuitive, visually appealing, and content-rich platform that encourages developers to embrace and adhere to the recommended code style guidelines effectively.
