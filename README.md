@@ -34,8 +34,6 @@ Your contributions are what make CodeCraft a valuable resource for developers st
 
 ## Tech Stack
 
-Tech Stack:
-
 CodeCraft employs a modern and efficient tech stack, carefully selected to optimize developer productivity and enhance the user experience:
 
 - **Next.js**: provides a solid foundation for creating dynamic, performant, and SEO-friendly web applications, making it a perfect fit for CodeCraft.
