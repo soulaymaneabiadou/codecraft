@@ -37,7 +37,7 @@ const SocialLinks = ({ sm = false }) => {
         </a>
       </Link>
 
-      <Link href='https://github.com/soulaymaneabiadou/codestyleguide'>
+      <Link href='https://github.com/soulaymaneabiadou/codecraft'>
         <a target='_blank' rel='noreferrer'>
           <Svg sm={sm}>
             <path stroke='none' d='M0 0h24v24H0z'></path>

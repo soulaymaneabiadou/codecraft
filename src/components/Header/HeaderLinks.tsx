@@ -4,7 +4,7 @@ import Link from 'next/link';
 const HeaderLinks = () => {
   return (
     <div className='relative flex basis-0 justify-end space-x-6 sm:space-x-8 md:flex-grow'>
-      <Link href='https://github.com/soulaymaneabiadou/codestyleguide'>
+      <Link href='https://github.com/soulaymaneabiadou/codecraft'>
         <a className='group'>
           <span className='sr-only'>GitHub</span>
           <svg

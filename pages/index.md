@@ -1,7 +1,7 @@
 ---
 title: Introduction
-pageTitle: Code Style Guide
-description: document it.
+pageTitle: CodeCraft
+description: Get started with learning how to elevate your craftsmanship skills.
 ---
 
 Deadlines are real, and getting things done is the goal, but rushing to go faster, ironically, ends up making us go slower, with more bugs, and the difficulty of finding a needle in a haystack. So getting work done ends up taking longer than if we wrote clean code to begin with.
